@@ -8,8 +8,8 @@ Foi realizado um projeto que consiste em um quiz baseado em conhecimentos gerais
 
 💻 CSS 
 
-💻 TypeScript
-
 💻 React
+
+💻 TypeScript
 
 💻 Next.js
